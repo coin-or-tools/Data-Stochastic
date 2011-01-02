@@ -14,8 +14,16 @@
 /bug.cor -text
 /bug.stoch -text
 /bug.time -text
+/coindatastochastic-uninstalled.pc.in -text
+/coindatastochastic.pc.in -text
+/config.guess -text
+/config.sub -text
 /configure -text
 /configure.ac -text
+/depcomp -text
+/install-sh -text
+/ltmain.sh -text
+/missing -text
 /prod_mixR.cor -text
 /prod_mixR.stoch -text
 /prod_mixR.time -text
