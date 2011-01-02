@@ -1,0 +1,24 @@
+* text=auto !eol
+/AUTHORS -text
+/KandW3R.cor -text
+/KandW3R.stoch -text
+/KandW3R.time -text
+/LICENSE -text
+/README -text
+/app0110.cor -text
+/app0110.stoch -text
+/app0110.time -text
+/app0110R.cor -text
+/app0110R.stoch -text
+/app0110R.time -text
+/bug.cor -text
+/bug.stoch -text
+/bug.time -text
+/configure -text
+/configure.ac -text
+/prod_mixR.cor -text
+/prod_mixR.stoch -text
+/prod_mixR.time -text
+/wat_10_C_32.cor -text
+/wat_10_C_32.stoch -text
+/wat_10_C_32.time -text
