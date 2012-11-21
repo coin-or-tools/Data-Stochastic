@@ -1,10 +1,7 @@
 * text=auto !eol
-/AUTHORS -text
 /KandW3R.cor -text
 /KandW3R.stoch -text
 /KandW3R.time -text
-/LICENSE -text
-/README -text
 /app0110.cor -text
 /app0110.stoch -text
 /app0110.time -text
